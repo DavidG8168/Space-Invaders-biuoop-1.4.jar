@@ -5,7 +5,6 @@ import geometry.Rectangle;
 
 /**
  * Collidable Interface.
- * @author David Goichman.
  */
 public interface Collidable {
     /**
