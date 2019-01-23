@@ -8,7 +8,6 @@ import biuoop.KeyboardSensor;
 
 /**
  * This class animated the menu.
- * @author David Goichman.
  * @param <T>
  *            The tasks.
  */
