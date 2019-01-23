@@ -7,7 +7,6 @@ import mechanics.Alien;
 
 /**
  * The 'BallRemover' class removes balls from the game.
- * @author David Goichman.
  */
 public class BulletRemover implements HitListener {
     // The BallRemover members.
