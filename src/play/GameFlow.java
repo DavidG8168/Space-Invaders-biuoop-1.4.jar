@@ -16,8 +16,6 @@ import mechanics.ScoreInfo;
 
 /**
  * The 'GameFlow' class is in charge of changing level.
- * @author David Goichman.
- *
  */
 public class GameFlow {
     // The members of the class.
