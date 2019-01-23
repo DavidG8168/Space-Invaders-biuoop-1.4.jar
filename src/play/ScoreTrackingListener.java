@@ -7,7 +7,6 @@ import mechanics.Alien;
 
 /**
  * 'ScoreTrackingListener' is used to track the total game score.
- * @author David Goichman.
  */
 public class ScoreTrackingListener implements HitListener {
     // The member, the current score.
