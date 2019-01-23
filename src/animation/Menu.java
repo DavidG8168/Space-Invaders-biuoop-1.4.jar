@@ -2,7 +2,6 @@ package animation;
 
 /**
  * This interface contains the menu methods.
- * @author David Goichman.
  * @param <T>
  *            The task handler interface.
  */
