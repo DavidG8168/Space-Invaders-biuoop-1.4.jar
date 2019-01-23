@@ -9,7 +9,6 @@ import mechanics.Alien;
 // of the number of blocks that remain.
 /**
  * Block remover is used to remove blocks from the game.
- * @author David Goichman.
  */
 public class AlienRemover implements HitListener {
     // The BlockRemover members.
