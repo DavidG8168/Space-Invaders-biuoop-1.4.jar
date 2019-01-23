@@ -14,7 +14,6 @@ import java.util.List;
 
 /**
  * class in charge of the highscore table we will use in the game.
- * @author David Goichman.
  */
 public class HighScoresTable {
     // The list of scores member.
