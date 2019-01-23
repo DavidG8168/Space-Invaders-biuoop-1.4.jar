@@ -5,7 +5,6 @@ import java.util.List;
 /**
  * The 'Rectangle' program is an object used to make rectangles
  * They are used literally everywhere.
- * @author David Goichman
  */
 public class Rectangle {
     //Rectangle members.
