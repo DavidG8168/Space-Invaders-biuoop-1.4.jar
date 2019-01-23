@@ -6,7 +6,6 @@ import biuoop.DrawSurface;
 
 /**
  * The 'Endscreen' method displays a victory or loss message.
- * @author David Goichman.
  */
 public class EndScreen implements Animation {
     // The members of the class.
