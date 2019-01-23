@@ -2,7 +2,6 @@ package animation;
 
 /**
  * This is the given HitNotifier interface.
- * @author David Goichman.
  */
 public interface HitNotifier {
     // Add hl as a listener to hit events.
