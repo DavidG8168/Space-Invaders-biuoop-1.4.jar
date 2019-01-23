@@ -17,7 +17,6 @@ import play.GameLevel;
 
 /**
  * The 'Alien' program is an object used to make the aliens on screen.
- * @author David Goichman
  */
 public class Alien implements Collidable, Sprite, HitNotifier, HitListener {
     // The members of the object.
