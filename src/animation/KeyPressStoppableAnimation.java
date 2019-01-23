@@ -5,7 +5,6 @@ import biuoop.KeyboardSensor;
 
 /**
  * The decorator pattern for key presses.
- * @author David Goichman.
  */
 public class KeyPressStoppableAnimation implements Animation {
     // The members of the class.
