@@ -11,7 +11,6 @@ import play.GameLevel;
 
 /**
  * The 'Shields' program is an object used to make the shield blocks on screen.
- * @author David Goichman
  */
 public final class Shields implements Collidable, Sprite, HitNotifier, HitListener {
     // The members of the object.
