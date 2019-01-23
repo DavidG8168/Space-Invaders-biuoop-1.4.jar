@@ -2,7 +2,6 @@ package play;
 
 /**
  * The 'Counter' class is used to track points.
- * @author David Goichman.
  */
 public class Counter {
     // The counter.
