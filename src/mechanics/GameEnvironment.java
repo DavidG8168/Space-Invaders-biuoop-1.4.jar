@@ -10,7 +10,6 @@ import geometry.Rectangle;
 /**
  * The 'GameEnvironment' program is an object used to create the game
  * environment.
- * @author David Goichman
  */
 public class GameEnvironment {
     // The member, a list of collidables.
