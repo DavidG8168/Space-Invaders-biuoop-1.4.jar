@@ -6,7 +6,6 @@ import geometry.Point;
 /**
  * The 'Velocity' program is an object used to calculate the velocity of the
  * balls in the rest of the program.
- * @author David Goichman
  */
 public class Velocity {
     private double dx;
