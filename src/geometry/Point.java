@@ -2,7 +2,6 @@ package geometry;
 /**
  * The 'Point' program is an object used to make the points in the rest of the
  * program.
- * @author David Goichman
  */
 
 public class Point {
