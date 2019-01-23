@@ -4,7 +4,6 @@ import java.util.List;
 /**
  * The 'Line' program is an object used to make the lines in
  * 'AbstractArtDrawing'.
- * @author David Goichman
  */
 public class Line {
     private Point start;
