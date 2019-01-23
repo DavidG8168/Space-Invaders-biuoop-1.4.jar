@@ -5,7 +5,6 @@ import play.GameLevel;
 
 /**
  * Sprite Interface.
- * @author David Goichman.
  */
 public interface Sprite {
     /**
