@@ -6,7 +6,6 @@ import mechanics.Alien;
 
 /**
  * The given HitListener interface.
- * @author David Goichman.
  */
 public interface HitListener {
     // This method is called whenever the beingHit object is hit.
