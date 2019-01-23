@@ -12,7 +12,6 @@ import mechanics.SpriteCollection;
 //it is replaced with the next one.
 /**
  * The 'CountdownAnimation' is in charge of the countdown.
- * @author David Goichman.
  */
 public class CountdownAnimation implements Animation {
     // The members;
