@@ -5,7 +5,6 @@ import mechanics.Sprite;
 
 /**
  * 'livesIndicator' is used to track player lives.
- * @author David Goichman.
  */
 public class LivesIndicator implements Sprite {
     private Counter life;
