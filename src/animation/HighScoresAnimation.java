@@ -8,7 +8,6 @@ import java.util.ArrayList;
 
 /**
  * This class animates the scoreboard.
- * @author David Goichman.
  */
 public class HighScoresAnimation implements Animation {
     // The members.
