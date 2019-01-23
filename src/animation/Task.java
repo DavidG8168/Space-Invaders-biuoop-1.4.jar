@@ -2,7 +2,6 @@ package animation;
 
 /**
  * This interface handles the tasks in the menu.
- * @author David Goichman
  * @param <T>
  *            The task type.
  */
