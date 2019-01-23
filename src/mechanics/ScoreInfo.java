@@ -2,7 +2,6 @@ package mechanics;
 
 /**
  * Score info keeps the score information.
- * @author David Goichman.
  */
 public class ScoreInfo {
     // The members.
