@@ -4,7 +4,6 @@ import biuoop.GUI;
 
 /**
  * This task closes the game.
- * @author David Goichman.
  */
 public class CloseGameTask implements Task<Void> {
     // The member of the class.
