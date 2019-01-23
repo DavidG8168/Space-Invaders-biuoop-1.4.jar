@@ -20,7 +20,6 @@ import play.LevelInformation;
 
 /**
  * The 'Main' program is used to start and play the game.
- * @author David Goichman
  */
 public class Ass7Game {
     /**
