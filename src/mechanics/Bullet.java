@@ -7,7 +7,6 @@ import play.GameLevel;
 
 /**
  * The 'Bullet' program is an object used to make the bullet the 'Ship' shoots.
- * @author David Goichman
  */
 public class Bullet implements Sprite {
     // Bullet information.
