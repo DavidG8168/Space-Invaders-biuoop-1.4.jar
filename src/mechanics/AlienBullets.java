@@ -8,7 +8,6 @@ import play.GameLevel;
 
 /**
  * This class is in charge of creating the bullets that aliens will shot.
- * @author David Goichman.
  */
 public class AlienBullets {
     // The members.
