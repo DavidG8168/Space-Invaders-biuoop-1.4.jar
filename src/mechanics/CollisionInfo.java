@@ -5,7 +5,6 @@ import geometry.Point;
 /**
  * The 'CollisionInfo' program contains all information about the collided
  * object.
- * @author David Goichman
  */
 public class CollisionInfo {
     // CollisionInfo Members.
