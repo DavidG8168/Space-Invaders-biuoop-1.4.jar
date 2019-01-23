@@ -11,7 +11,6 @@ import mechanics.Velocity;
 
 /**
  * Creates the Space Invaders Level.
- * @author David Goichman.
  */
 public class LevelCreator implements LevelInformation {
     private List<Alien> blocks = new ArrayList<>();
