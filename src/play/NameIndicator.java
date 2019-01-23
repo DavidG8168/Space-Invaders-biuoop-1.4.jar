@@ -5,7 +5,6 @@ import mechanics.Sprite;
 
 /**
  * 'NameIndicator' is used to display the level name.
- * @author David Goichman.
  */
 public class NameIndicator implements Sprite {
     private String name;
