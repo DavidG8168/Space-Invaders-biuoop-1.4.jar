@@ -2,7 +2,6 @@ package animation;
 
 /**
  * This class handles the highscore table task in the menu.
- * @author David Goichman.
  */
 public class ShowHighScoresTask implements Task<Void> {
     // The members of the class.
