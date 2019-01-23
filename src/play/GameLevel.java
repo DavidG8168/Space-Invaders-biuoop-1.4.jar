@@ -25,7 +25,6 @@ import mechanics.Velocity;
 
 /**
  * The 'Game' program is an object used to create and start the game.
- * @author David Goichman
  */
 public class GameLevel implements Animation {
     // Game members.
