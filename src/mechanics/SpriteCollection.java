@@ -6,8 +6,6 @@ import biuoop.DrawSurface;
 
 /**
  * The 'Sprite Collection' object is used to collect the game sprites.
- * @author David Goichman.
- *
  */
 public class SpriteCollection {
     // The member, a list of sprites.
