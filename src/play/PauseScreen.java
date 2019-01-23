@@ -6,7 +6,6 @@ import biuoop.DrawSurface;
 
 /**
  * The 'PauseScreen' method is in charge of pausing the game.
- * @author David Goichman.
  */
 public class PauseScreen implements Animation {
     // The members of the class.
