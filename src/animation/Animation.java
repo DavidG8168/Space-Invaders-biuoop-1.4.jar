@@ -4,7 +4,6 @@ import biuoop.DrawSurface;
 
 /**
  * The 'Animation' interface is used to animate the game.
- * @author David Goichman.
  */
 public interface Animation {
     /**
