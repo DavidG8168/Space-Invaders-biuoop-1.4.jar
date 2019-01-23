@@ -8,7 +8,6 @@ import play.GameLevel;
 
 /**
  * The 'Paddle' program is an object used to create the paddle.
- * @author David Goichman.
  */
 public class Ship implements Sprite, Collidable {
     // Members.
