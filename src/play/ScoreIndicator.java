@@ -5,7 +5,6 @@ import mechanics.Sprite;
 
 /**
  * 'ScoreIndicator' is used to display the score.
- * @author David
  */
 public class ScoreIndicator implements Sprite {
     private Counter currentScore;
