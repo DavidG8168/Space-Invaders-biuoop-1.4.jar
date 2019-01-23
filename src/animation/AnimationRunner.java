@@ -6,7 +6,6 @@ import biuoop.Sleeper;
 
 /**
  * 'AnimationRunner' Runs the animation loop.
- * @author David Goichman.
  */
 public class AnimationRunner {
     // The members of the class.
