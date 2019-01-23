@@ -7,7 +7,6 @@ import play.LevelInformation;
 
 /**
  * Class starts the game.
- * @author David Goichman.
  */
 public class StartGameTask implements Task<Void> {
     //The members of the class.
