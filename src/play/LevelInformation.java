@@ -8,7 +8,6 @@ import mechanics.Velocity;
 
 /**
  * The interface handles all levels.
- * @author David Goichman.
  */
 public interface LevelInformation {
     /**
